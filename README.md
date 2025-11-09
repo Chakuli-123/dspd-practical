@@ -8,4 +8,8 @@
 ##-[practical 4](./4.c)<br>
 ##-[practical 5](./5.c)<br>
 ##-[practical 6](./6tree.c)<br>
-
+##-[practical 7](./7.c)<br>
+##[practical 8](./8.c)<br>
+##[practical 9](./9.c)<br>
+##[practical 10](./filecopy.c)<br>
+### THANK YOU 
